@@ -24,4 +24,3 @@ set backspace=indent,eol,start
 
 " Clipboard (for tmux) 
 set clipboard=unnamed
-
